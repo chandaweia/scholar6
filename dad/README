@@ -1,2 +1,0 @@
-ifconfig eth1 promisc
-nohup ./dadmonitor </dev/null >nohup.out 2>&1 &
