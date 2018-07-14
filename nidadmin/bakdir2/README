@@ -1,3 +1,0 @@
-./nidadmin -r privkey.pem -c cacert.pem 
-
-初始化时连接数据库，系统结束时断开数据库

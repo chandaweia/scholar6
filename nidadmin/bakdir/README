@@ -1,2 +1,0 @@
-./nidadmin -r privkey.pem -c cacert.pem 
-数据库Mysql一次一断
