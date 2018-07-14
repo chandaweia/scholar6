@@ -1,0 +1,2 @@
+./nidadmin -r privkey.pem -c cacert.pem 
+nohup ./nidadmin -r privkey.pem -c cacert.pem </dev/null >nohup.out 2>&1 &
